@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><preferences stamp="19">
+<?xml version="1.0" encoding="UTF-8"?><preferences stamp="20">
 	<com.4d>
 		<interface>
 			<misc/>
@@ -9,7 +9,7 @@
 				<add_subform alt="false" command="false" ctrl="false" key_code="0" shift="false"/>                                      </shortcuts>                                                    </interface>
 		<compiler>
 			<options compilation_path="3" fat_binary="true" target="all"/>
-			<typage default_for_button="2"/>
+			<typage default_for_button="2" default_for_numeric="1"/>
 			<method_suffix arrays="" interprocess_arrays="" interprocess_variables="" methods="" variables=""/>                </compiler>
 		<sql>
 			<publication port_number="1919"/>
